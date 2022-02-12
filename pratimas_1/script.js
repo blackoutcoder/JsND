@@ -26,3 +26,4 @@ let xBool;
 xBool = jobDone > jobNotDone;
 document.write("<br/>"+ "Job is done? - " + xBool);
 
+//darbas užeme 10-15 min.
