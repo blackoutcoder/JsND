@@ -17,3 +17,4 @@ document.write("<br/>" + "4 - " + browserType[3]);
 document.write("<br/>" + "5 - " + browserType[4]);
  
 //Darbas užeme apie 30 min, nieko protingesnio nesugalvojau :( 
+//klaida
