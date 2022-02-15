@@ -1,0 +1,1 @@
+document.write("kas cia vyksta?");
